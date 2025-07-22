@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "password": "secret123",
+    "role": "Admin",
+    "phone": "123-456-7890",
+    "address": "123 Main St, New York"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "password": "qwerty789",
+    "role": "Editor",
+    "phone": "987-654-3210",
+    "address": "456 Oak Ave, Chicago"
+  },
+  {
+    "id": 3,
+    "name": "Carol Williams",
+    "email": "carol.williams@example.com",
+    "password": "pass1234",
+    "role": "Viewer",
+    "phone": "555-123-4567",
+    "address": "789 Pine Rd, San Francisco"
+  },
+  {
+    "id": 4,
+    "name": "David Brown",
+    "email": "david.brown@example.com",
+    "password": "brownie999",
+    "role": "Admin",
+    "phone": "321-654-0987",
+    "address": "321 Maple Ln, Austin"
+  },
+  {
+    "id": 5,
+    "name": "Eve Davis",
+    "email": "eve.davis@example.com",
+    "password": "eve@2024",
+    "role": "Editor",
+    "phone": "111-222-3333",
+    "address": "101 Elm St, Seattle"
+  },
+  {
+    "id": 6,
+    "name": "Frank Miller",
+    "email": "frank.miller@example.com",
+    "password": "frankie007",
+    "role": "Viewer",
+    "phone": "444-555-6666",
+    "address": "202 Birch Blvd, Denver"
+  },
+  {
+    "id": 7,
+    "name": "Grace Lee",
+    "email": "grace.lee@example.com",
+    "password": "graceful88",
+    "role": "Admin",
+    "phone": "777-888-9999",
+    "address": "303 Cedar Ct, Miami"
+  }
+]
