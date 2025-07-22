@@ -1,7 +1,7 @@
 # User Panel
 
-Used ChatGPT for code assist
-Currently using dummy data in json file locally without backend logic(Node)
+- Used ChatGPT for code assist
+- Currently using dummy data in json file locally without backend logic(Node)
 
 ### 1. Clone the repository
 
